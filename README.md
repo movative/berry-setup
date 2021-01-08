@@ -17,3 +17,7 @@ For more information you can read the wiki [@here](https://gitlab.com/movative/r
 1. Docker Service: Portainer
 1. Docker Service: Bookstack
 1. Docker Service: OpenHAB
+
+# My Setup
+
+<img src="https://gitlab.com/movative/raspi-setup/-/raw/master/docs/raspberry_pi_c3g0.png" height="800" />
