@@ -19,9 +19,7 @@ network={
 ```
 
 1. SD-Karte auswerfen und im Raspberry PI einstecken. Wenn der Bonjour Service auf Ihrem Rechner installiert ist, kann man sich mit `ssh pi@raspberrypi.local` auf den PI verbinden.
-
 1. Passwort ändern `sudo passwd`
-
 1. Hostname ändern
 
 ```bash
