@@ -7,7 +7,7 @@
 1. Re-insert card and create an empty file with the name **SSH** **/boot**.
 1. Create **wpa_supplicant.conf** on **/boot**.
 
-```json
+```ini
 country=DE
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
@@ -18,7 +18,7 @@ network={
 }
 ```
 
-1. SD-Karte auswerfen und im Raspberry PI einstecken. Wenn der Bonjour Service auf Ihrem Rechner installiert ist, kann man sich mit `ssh pi@raspberrypi.local `auf den PI verbinden.
+1. SD-Karte auswerfen und im Raspberry PI einstecken. Wenn der Bonjour Service auf Ihrem Rechner installiert ist, kann man sich mit `ssh pi@raspberrypi.local` auf den PI verbinden.
 
 1. Passwort ändern `sudo passwd`
 
