@@ -1,36 +1,29 @@
-# raspi-setup 
+# berry-setup
+
+<img src="docs/icon.png" alt="" align="left" height="60" width="80" vspace="6"/>
+
 This project contains the documentation of my raspberry pi projects.
 
 This includes self written software and external software used via docker-compose file.
 
-For more information you can read the wiki [@here](https://gitlab.com/movative/raspi-setup/-/wikis/home).
+If you just starting with raspberry pi and dont know how to flash etc., you can read the beginners [@here](https://gitlab.com/movative/raspi-setup/-/wikis/home).
 
-# What you have to do
-1. Choose Raspberry OS
-1. Configure OS
-1. Curl the script
-1. Execute install.sh
 
-# What happens
-1. Installations Script
+## How to begin with berry-setup
+
+1. Install Raspberry OS
+1. ``sh <(curl -s https://api.github.com/repos/movative/berry-setup/contents)``
+
+## What happens
+
 1. Install Git and Docker && Git pull
 1. Docker Service: Portainer
 1. Docker Service: Bookstack
 1. Docker Service: OpenHAB
 
-<details>
-  <summary>My Hardware Setup</summary>
+## Hardware Setup
 
-  # Used Raspberry PI Pin's
-
-  <img src="https://gitlab.com/movative/raspi-setup/-/raw/master/docs/raspberry_pi_c3g0.png" height="800" />
-
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+<img src="./docs/rpi-3b-my.png" height="800" />
 
 
 <details>
