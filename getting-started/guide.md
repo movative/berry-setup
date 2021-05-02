@@ -7,6 +7,7 @@
 1. Choose your OS, I recommend a Raspberry Pi OS Lite (32-bit) and flash it onto the SD-Card.
 
 ## What`s next?
+
 After successfully flashing the SD-Card we have two options to configure and access the raspberry:
 1. Via keyboard and display
     - If you want to access the pi via keyboard and display you can stop reading now and just insert the sd-card into the raspberry, but just saying the ssh option is much more comfortable.
@@ -51,3 +52,5 @@ sudo hostname movative
 sudo sed -i 's/raspberrypi/movative/g' /etc/hosts
 hostnamectl set-hostname movative
 ```
+
+[[Go further in @readme.md]](../readme.md)
