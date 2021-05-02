@@ -3,9 +3,7 @@
 
 This project contains the documentation of my raspberry pi setup.<br>
 This includes self written software and other open source software.<br>
-To easily start the project I use docker-containers, docker-compose and environment files to configure them. <br>
-[[Logo created with diagram.net]](https://app.diagrams.net/)
-<br>
+To easily start the project I use docker and environment files.<br> [[Logo created with diagram.net]](https://app.diagrams.net/)<br>
 
 <!---
 ## How to begin with berry-setup
