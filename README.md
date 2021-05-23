@@ -1,7 +1,7 @@
 # berry-setup
 <img src="img/icon.drawio.png" alt="Raspberry Icon" align="left" height="80" width="80" vspace="6"/>
-WIP:
-This project contains the documentation of my raspberry pi setup.<br>
+
+WIP: This project contains the documentation of my raspberry pi setup.<br>
 This includes self written software and other open source software.<br>
 To easily start the project I use docker and environment files.<br>
 [[Logo created with diagram.net]](https://app.diagrams.net/)<br>
